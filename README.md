@@ -1,6 +1,9 @@
-Tableau dashboard here - analyze performance of major city pd's 
-Slide deck here - recommendations (US government/nationwide head of police is the client)
-
-## Variables
+# Police Violence in the US (2013-2019)
+## Dataset 
+### Description
+### Variables
 violent_crime_rate - 
 avg_police_homicide_rate_*race* -
+## Methodology
+## Database Schema
+## Key Visuals and Recommendations
